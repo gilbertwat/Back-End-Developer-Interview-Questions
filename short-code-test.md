@@ -13,7 +13,7 @@ And the system will response to requesters whether they win or not at the end of
 
 You can use whatever tools / language you prefer. But we are using Ruby on Rails.
 
-Your system should be able to be tested automatically.
+Your system must be able to be tested automatically.
 
 Also outline the limitation of your system and how you will improve it (if you have time).
 
